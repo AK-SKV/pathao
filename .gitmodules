@@ -1,0 +1,4 @@
+[submodule "metaodoo/pathao/app_odoo_customize"]
+	path = metaodoo/pathao/app_odoo_customize
+	url = git@github.com:metaodoo/pathao.git
+	branch = master
