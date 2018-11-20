@@ -1,4 +1,0 @@
-[submodule "metaodoo/pathao"]
-	path = metaodoo/pathao
-	url = git@github.com:metaodoo/pathao.git
-	branch = app-app_odoo_customize
